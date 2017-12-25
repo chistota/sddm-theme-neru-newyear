@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Вход в систему Неру-Новый год
+Description=Вход в систему Неру-Новый год
+Screenshot=screenshot.svg
+License=CC-BY-SA
+Type=sddm-theme
+Version=1.0
+Screenshot=screenshot.svg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=m_wynn
+Theme-API=2.0
